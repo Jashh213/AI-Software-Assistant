@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+openai
+faiss-cpu
+sentence-transformers
+numpy
+pytest
+requests
+mcp
